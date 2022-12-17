@@ -1,0 +1,27 @@
+{
+	"root_reducer": "dungeoneer_reducer",
+	"sub_reducer": "floor_properties",
+	"properties": {
+		"layout": "FloorLayout",
+		"room_density": "number",
+		"floor_connectivity": "number",
+		"enemy_density": "number",
+		"kecleon_shop_chance": "number",
+		"monster_house_chance": "number",
+		"maze_room_chance": "number",
+		"allow_dead_ends": "boolean",
+		"secondary_structures_budget": "number",
+		"f_secondary_terrain_generation": "boolean",
+		"f_room_imperfections": "boolean",
+		"item_density": "number",
+		"trap_density": "number",
+		"floor_number": "number",
+		"fixed_room_id": "number",
+		"num_extra_hallways": "number",
+		"buried_item_density": "number",
+		"secondary_terrain_density": "number",
+		"itemless_monster_house_chance": "number",
+		"hidden_stairs_type": "HiddenStairsType",
+		"hidden_stairs_spawn_chance": "number"
+	}
+}

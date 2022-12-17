@@ -1,0 +1,9 @@
+{
+	"root_reducer": "dungeoneer_reducer",
+	"sub_reducer": "advanced_generation_settings",
+	"properties": {
+		"allow_wall_maze_room_generation": "boolean",
+		"fix_dead_end_validation_error": "boolean",
+		"fix_generate_outer_rooms_floor_error": "boolean"
+	}
+}

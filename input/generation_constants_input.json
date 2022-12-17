@@ -1,0 +1,12 @@
+{
+	"root_reducer": "dungeoneer_reducer",
+	"sub_reducer": "generation_constants",
+	"properties": {
+		"merge_rooms_chance": "number",
+		"no_imperfections_chance": "number",
+		"secondary_structure_flag_chance": "number",
+		"max_number_monster_house_item_spawns": "number",
+		"max_number_monster_house_enemy_spawns": "number",
+		"first_dungeon_id_allow_monster_house_traps": "number"
+	}
+}

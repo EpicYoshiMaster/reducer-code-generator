@@ -1,0 +1,17 @@
+{
+	"root_reducer": "dungeoneer_reducer",
+	"sub_reducer": "dungeon_properties",
+	"properties": {
+		"id": "number",
+		"floor": "number", 
+		"rescue_floor": "number", 
+		"nonstory_flag": "boolean", 
+		"is_destination_floor": "boolean", 
+		"mission_type": "MissionType", 
+		"mission_subtype": "MissionSubtype", 
+		"dungeon_objective": "DungeonObjectiveType", 
+		"num_items": "number", 
+		"guaranteed_item_id": "number", 
+		"n_floors_plus_one": "number" 
+	}
+}
